@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+    <!-- Artwork Titles -->
+    <string name="artwork_title_1">Starry Night</string>
+    <string name="artwork_title_2">Mona Lisa</string>
+    <string name="artwork_title_3">The Scream</string>
+    <string name="artwork_title_4">The Persistence of Memory</string>
+    <string name="artwork_title_5">The Starry Night</string>
+    <string name="artwork_title_6">The Kiss</string>
+
+    <!-- Artist Names with Years -->
+    <string name="artist_name_year_1">Vincent van Gogh (1889)</string>
+    <string name="artist_name_year_2">Leonardo da Vinci (c. 1503–1519)</string>
+    <string name="artist_name_year_3">Edvard Munch (1893)</string>
+    <string name="artist_name_year_4">Salvador Dalí (1931)</string>
+    <string name="artist_name_year_5">Vincent van Gogh (1889)</string>
+    <string name="artist_name_year_6">Gustav Klimt (1907–1908)</string>
+
+    <!--- Artwork Content Descriptions -->
+    <string name="content_description_1">Artwork 1</string>
+    <string name="content_description_2">Artwork 2</string>
+    <string name="content_description_3">Artwork 3</string>
+    <string name="content_description_4">Artwork 4</string>
+    <string name="content_description_5">Artwork 5</string>
+    <string name="content_description_6">Artwork 6</string>
+</resources>
